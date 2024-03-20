@@ -1434,7 +1434,7 @@ build.json @home-assistant/supervisor
 /tests/components/twitch/ @joostlek
 /homeassistant/components/ukraine_alarm/ @PaulAnnekov
 /tests/components/ukraine_alarm/ @PaulAnnekov
-/homeassistant/components/unifi/ @Kane610
+/homeassistant/components/unifi/ @Kane610 @truvec
 /tests/components/unifi/ @Kane610
 /homeassistant/components/unifi_direct/ @tofuSCHNITZEL
 /homeassistant/components/unifiled/ @florisvdk
