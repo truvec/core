@@ -1,7 +1,7 @@
 {
   "domain": "unifi",
   "name": "UniFi Network",
-  "codeowners": ["@Kane610"],
+  "codeowners": ["@truvec"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/unifi",
   "integration_type": "hub",
